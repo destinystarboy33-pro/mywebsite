@@ -113,7 +113,7 @@ h6 {
 }
 
 .brand-text {
-    font-size: 40px;
+    font-size: 15px;
     width: 100%;
     flex: 1;
     font-weight: 700;
@@ -134,4 +134,5 @@ body {
 .container {
     width: 90%;
     max-width: 1200px;
+
 }
