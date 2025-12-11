@@ -95,7 +95,7 @@ h6 {
 }
 
 .header {
-    padding: 5px;
+    padding: 12px;
     position: sticky;
     text-align: center;
     top: 0;
@@ -136,3 +136,4 @@ body {
     max-width: 1200px;
 
 }
+
