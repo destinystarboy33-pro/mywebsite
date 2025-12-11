@@ -133,9 +133,13 @@ body {
 
 .container {
     width: 90%;
-    max-width: 1200px;
+    max-width: 1600px;
+    padding-left:24px;
+    padding-right:24px
+    margin:0 auto
 
 }
+
 
 
 
