@@ -95,7 +95,7 @@ h6 {
 }
 
 .header {
-    padding: 12px;
+    padding: 9px;
     position: sticky;
     text-align: center;
     top: 0;
@@ -109,7 +109,7 @@ h6 {
 .brand {
     display: flex;
     align-items: center;
-    gap: 12px
+    gap: 8px
 }
 
 .brand-text {
@@ -136,4 +136,5 @@ body {
     max-width: 1200px;
 
 }
+
 
