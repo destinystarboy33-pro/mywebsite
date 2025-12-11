@@ -124,7 +124,7 @@ h6 {
     color: blue;
 }
 
-body {
+.body {
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -139,6 +139,7 @@ body {
     margin:0 auto
 
 }
+
 
 
 
