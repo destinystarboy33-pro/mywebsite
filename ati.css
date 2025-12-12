@@ -111,13 +111,13 @@ h6 {
 }
 
 .header {
-    padding: 5px;
+    padding: 10px;
     position: sticky;
     text-align: center;
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-color: #000080;
+    background-color: whitesmoke;
     height: 100;
     margin: 0;
     padding: 0;
@@ -152,4 +152,5 @@ body {
 .container {
     width: 90%;
     max-width: 1200px;
+
 }
